@@ -1,6 +1,6 @@
-# Parity 2+ ❤️ Geth (Byzantium Cross Client Chain Configs)
+# Parity 2+ ❤️ Geth (Byzantium Cross-Client Chain Spec)
 
-This repository contains cross client chain specs for Geth and Parity that support `byzantium` fork.
+This repository contains a cross-client chain spec for Geth and Parity that supports `byzantium` fork.
 
 ## Testing
 - Clone this repository.
